@@ -1,0 +1,1 @@
+These are the do files (scripts) for cleaning and analysing the ESCAPE pilot trial. The data are available via request to the University of Bath's research data service - https://library.bath.ac.uk/research-data.
